@@ -20,13 +20,6 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSURL *fileURL = [[NSURL alloc] initFileURLWithPath:[[NSBundle mainBundle]pathForResource:@"C" ofType:@"m4a"]];
-    
-    self.player = [[AVAudioPlayer alloc] initWithContentsOfURL:fileURL error:nil];
-    if(self.player)
-    {
-        player.numberOfLoops = 0;
-    }
 }
 
 - (void)viewDidUnload
