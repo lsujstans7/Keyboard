@@ -16,6 +16,20 @@
 		5BED0DAC15CAD7DE00316E4A /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DAA15CAD7DE00316E4A /* MainStoryboard_iPhone.storyboard */; };
 		5BED0DAF15CAD7DE00316E4A /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DAD15CAD7DE00316E4A /* MainStoryboard_iPad.storyboard */; };
 		5BED0DB215CAD7DE00316E4A /* KEYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BED0DB115CAD7DE00316E4A /* KEYViewController.m */; };
+		5BED0DC515CADB4C00316E4A /* A.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DB815CADB4C00316E4A /* A.m4a */; };
+		5BED0DC615CADB4C00316E4A /* Ab.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DB915CADB4C00316E4A /* Ab.m4a */; };
+		5BED0DC715CADB4C00316E4A /* B.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DBA15CADB4C00316E4A /* B.m4a */; };
+		5BED0DC815CADB4C00316E4A /* Bb.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DBB15CADB4C00316E4A /* Bb.m4a */; };
+		5BED0DC915CADB4C00316E4A /* C.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DBC15CADB4C00316E4A /* C.m4a */; };
+		5BED0DCA15CADB4C00316E4A /* C'.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DBD15CADB4C00316E4A /* C'.m4a */; };
+		5BED0DCB15CADB4C00316E4A /* D.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DBE15CADB4C00316E4A /* D.m4a */; };
+		5BED0DCC15CADB4C00316E4A /* Db.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DBF15CADB4C00316E4A /* Db.m4a */; };
+		5BED0DCD15CADB4C00316E4A /* E.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DC015CADB4C00316E4A /* E.m4a */; };
+		5BED0DCE15CADB4C00316E4A /* Eb.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DC115CADB4C00316E4A /* Eb.m4a */; };
+		5BED0DCF15CADB4C00316E4A /* F.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DC215CADB4C00316E4A /* F.m4a */; };
+		5BED0DD015CADB4C00316E4A /* G.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DC315CADB4C00316E4A /* G.m4a */; };
+		5BED0DD115CADB4C00316E4A /* Gb.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BED0DC415CADB4C00316E4A /* Gb.m4a */; };
+		5BED0DD315CADF2800316E4A /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5BED0DD215CADF2800316E4A /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,16 +37,30 @@
 		5BED0D9815CAD7DE00316E4A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5BED0D9A15CAD7DE00316E4A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5BED0D9C15CAD7DE00316E4A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		5BED0DA015CAD7DE00316E4A /* Keyboard-Info.plist */ = {isa = PBXFileReference; path = "Keyboard-Info.plist"; sourceTree = "<group>"; };
+		5BED0DA015CAD7DE00316E4A /* Keyboard-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Keyboard-Info.plist"; sourceTree = "<group>"; };
 		5BED0DA215CAD7DE00316E4A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5BED0DA415CAD7DE00316E4A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5BED0DA615CAD7DE00316E4A /* Keyboard-Prefix.pch */ = {isa = PBXFileReference; path = "Keyboard-Prefix.pch"; sourceTree = "<group>"; };
-		5BED0DA715CAD7DE00316E4A /* KEYAppDelegate.h */ = {isa = PBXFileReference; path = KEYAppDelegate.h; sourceTree = "<group>"; };
+		5BED0DA615CAD7DE00316E4A /* Keyboard-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Keyboard-Prefix.pch"; sourceTree = "<group>"; };
+		5BED0DA715CAD7DE00316E4A /* KEYAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KEYAppDelegate.h; sourceTree = "<group>"; };
 		5BED0DA815CAD7DE00316E4A /* KEYAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KEYAppDelegate.m; sourceTree = "<group>"; };
 		5BED0DAB15CAD7DE00316E4A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		5BED0DAE15CAD7DE00316E4A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		5BED0DB015CAD7DE00316E4A /* KEYViewController.h */ = {isa = PBXFileReference; path = KEYViewController.h; sourceTree = "<group>"; };
+		5BED0DB015CAD7DE00316E4A /* KEYViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KEYViewController.h; sourceTree = "<group>"; };
 		5BED0DB115CAD7DE00316E4A /* KEYViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KEYViewController.m; sourceTree = "<group>"; };
+		5BED0DB815CADB4C00316E4A /* A.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = A.m4a; sourceTree = "<group>"; };
+		5BED0DB915CADB4C00316E4A /* Ab.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ab.m4a; sourceTree = "<group>"; };
+		5BED0DBA15CADB4C00316E4A /* B.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = B.m4a; sourceTree = "<group>"; };
+		5BED0DBB15CADB4C00316E4A /* Bb.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bb.m4a; sourceTree = "<group>"; };
+		5BED0DBC15CADB4C00316E4A /* C.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = C.m4a; sourceTree = "<group>"; };
+		5BED0DBD15CADB4C00316E4A /* C'.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "C'.m4a"; sourceTree = "<group>"; };
+		5BED0DBE15CADB4C00316E4A /* D.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = D.m4a; sourceTree = "<group>"; };
+		5BED0DBF15CADB4C00316E4A /* Db.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Db.m4a; sourceTree = "<group>"; };
+		5BED0DC015CADB4C00316E4A /* E.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = E.m4a; sourceTree = "<group>"; };
+		5BED0DC115CADB4C00316E4A /* Eb.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Eb.m4a; sourceTree = "<group>"; };
+		5BED0DC215CADB4C00316E4A /* F.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = F.m4a; sourceTree = "<group>"; };
+		5BED0DC315CADB4C00316E4A /* G.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = G.m4a; sourceTree = "<group>"; };
+		5BED0DC415CADB4C00316E4A /* Gb.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Gb.m4a; sourceTree = "<group>"; };
+		5BED0DD215CADF2800316E4A /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BED0DD315CADF2800316E4A /* AVFoundation.framework in Frameworks */,
 				5BED0D9915CAD7DE00316E4A /* UIKit.framework in Frameworks */,
 				5BED0D9B15CAD7DE00316E4A /* Foundation.framework in Frameworks */,
 				5BED0D9D15CAD7DE00316E4A /* CoreGraphics.framework in Frameworks */,
@@ -52,6 +81,7 @@
 		5BED0D8915CAD7DE00316E4A = {
 			isa = PBXGroup;
 			children = (
+				5BED0DD215CADF2800316E4A /* AVFoundation.framework */,
 				5BED0D9E15CAD7DE00316E4A /* Keyboard */,
 				5BED0D9715CAD7DE00316E4A /* Frameworks */,
 				5BED0D9515CAD7DE00316E4A /* Products */,
@@ -79,6 +109,19 @@
 		5BED0D9E15CAD7DE00316E4A /* Keyboard */ = {
 			isa = PBXGroup;
 			children = (
+				5BED0DB815CADB4C00316E4A /* A.m4a */,
+				5BED0DB915CADB4C00316E4A /* Ab.m4a */,
+				5BED0DBA15CADB4C00316E4A /* B.m4a */,
+				5BED0DBB15CADB4C00316E4A /* Bb.m4a */,
+				5BED0DBC15CADB4C00316E4A /* C.m4a */,
+				5BED0DBD15CADB4C00316E4A /* C'.m4a */,
+				5BED0DBE15CADB4C00316E4A /* D.m4a */,
+				5BED0DBF15CADB4C00316E4A /* Db.m4a */,
+				5BED0DC015CADB4C00316E4A /* E.m4a */,
+				5BED0DC115CADB4C00316E4A /* Eb.m4a */,
+				5BED0DC215CADB4C00316E4A /* F.m4a */,
+				5BED0DC315CADB4C00316E4A /* G.m4a */,
+				5BED0DC415CADB4C00316E4A /* Gb.m4a */,
 				5BED0DA715CAD7DE00316E4A /* KEYAppDelegate.h */,
 				5BED0DA815CAD7DE00316E4A /* KEYAppDelegate.m */,
 				5BED0DAA15CAD7DE00316E4A /* MainStoryboard_iPhone.storyboard */,
@@ -155,6 +198,19 @@
 				5BED0DA315CAD7DE00316E4A /* InfoPlist.strings in Resources */,
 				5BED0DAC15CAD7DE00316E4A /* MainStoryboard_iPhone.storyboard in Resources */,
 				5BED0DAF15CAD7DE00316E4A /* MainStoryboard_iPad.storyboard in Resources */,
+				5BED0DC515CADB4C00316E4A /* A.m4a in Resources */,
+				5BED0DC615CADB4C00316E4A /* Ab.m4a in Resources */,
+				5BED0DC715CADB4C00316E4A /* B.m4a in Resources */,
+				5BED0DC815CADB4C00316E4A /* Bb.m4a in Resources */,
+				5BED0DC915CADB4C00316E4A /* C.m4a in Resources */,
+				5BED0DCA15CADB4C00316E4A /* C'.m4a in Resources */,
+				5BED0DCB15CADB4C00316E4A /* D.m4a in Resources */,
+				5BED0DCC15CADB4C00316E4A /* Db.m4a in Resources */,
+				5BED0DCD15CADB4C00316E4A /* E.m4a in Resources */,
+				5BED0DCE15CADB4C00316E4A /* Eb.m4a in Resources */,
+				5BED0DCF15CADB4C00316E4A /* F.m4a in Resources */,
+				5BED0DD015CADB4C00316E4A /* G.m4a in Resources */,
+				5BED0DD115CADB4C00316E4A /* Gb.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
